@@ -1,0 +1,7 @@
+{
+  "name": "Mockingbird Electric - Local Pasadena Electrician",
+  "description": "High-converting, single-page lead generation website for Mockingbird Electric in Pasadena, TX, optimized for mobile-first conversion and phone-driven inquiries.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
